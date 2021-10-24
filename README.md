@@ -33,3 +33,6 @@
 + Related Video : https://youtu.be/be9sHQ7xqo0
 
 + API used for Web Scraping : https://www.scraperapi.com
+
+## Languages
++ Node.js, Express.js
