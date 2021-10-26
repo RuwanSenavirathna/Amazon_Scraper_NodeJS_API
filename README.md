@@ -1,6 +1,6 @@
 # Amazon_Scraper_NodeJS_API
 
-+ Backend is hosted in Heroku, https://amazon-scraper-nodejs-api.herokuapp.com
++ Backend is hosted in Heroku : https://amazon-scraper-nodejs-api.herokuapp.com
 
 + RapidAPI link : https://rapidapi.com/RuwanSenavirathna/api/amazon-data-scraper35
 
@@ -28,11 +28,15 @@
   + https://amazon-scraper-nodejs-api.herokuapp.com/products/B087RL7M5S/offers?api_key=9df2c0810a9fe33226a6d618dea35d96 
 
 
+..........
+
 ## Resources
-
 + Related Video : https://youtu.be/be9sHQ7xqo0
-
 + API used for Web Scraping : https://www.scraperapi.com
+  ### Hosted applications
+  + Backend is hosted in Heroku : https://amazon-scraper-nodejs-api.herokuapp.com
+  + RapidAPI link : https://rapidapi.com/RuwanSenavirathna/api/amazon-data-scraper35
 
-## Languages
+## Languages / Covered topics
 + Node.js, Express.js
++ LEARN: Heroku, RapidAPI
